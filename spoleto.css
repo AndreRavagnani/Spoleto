@@ -1,5 +1,19 @@
 body { 
-	padding 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
 	background-color: brown;
 	border: 1px solid black;
+	font-family: sans-serif;
 }
+h1{
+	text-align: center;
+	border: 1px solid black;
+}
+p{
+	border: 1px solid black;
+}
+p.critica{
+	text-align: center;
+	border: 1px dashed brown;
+	font-weight: bold;
+}
+
